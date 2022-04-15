@@ -19,10 +19,10 @@ Utterances, Slots, and Confirmations
 ![](https://github.com/ThomasBrierton/AWS_Robo_Advisor/blob/main/Bot_Videos/Slots_pic.png)
 
 Bot created using Amazon Lex
-![](https://github.com/ThomasBrierton/AWS_Robo_Advisor/blob/main/Bot_Videos/Lex_bot.mov)
+![](https://github.com/ThomasBrierton/AWS_Robo_Advisor/blob/main/Bot_Videos/Lex_bot.gif)
 
 Bot Created using Amazon Lex and Lambda
-![](https://github.com/ThomasBrierton/AWS_Robo_Advisor/blob/main/Bot_Videos/Lambda_Bot.mov)
+![](https://github.com/ThomasBrierton/AWS_Robo_Advisor/blob/main/Bot_Videos/Lambda_Bot.gif)
 
 ## Contributors 
 
