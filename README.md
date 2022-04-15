@@ -17,8 +17,10 @@ This project uses Jupyter notebook and the standard Python 3.8 libraries. This p
 
 Utterances, Slots, and Confirmations 
 ![](https://github.com/ThomasBrierton/AWS_Robo_Advisor/blob/main/Bot_Videos/Slots_pic.png)
+
 Bot created using Amazon Lex
 ![](https://github.com/ThomasBrierton/AWS_Robo_Advisor/blob/main/Bot_Videos/Lex_bot.mov)
+
 Bot Created using Amazon Lex and Lambda
 ![](https://github.com/ThomasBrierton/AWS_Robo_Advisor/blob/main/Bot_Videos/Lambda_Bot.mov)
 
