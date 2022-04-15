@@ -15,14 +15,11 @@ This project uses Jupyter notebook and the standard Python 3.8 libraries. This p
 
 ## Results
 
-Utterances, Slots, and Confirmations 
-![](https://github.com/ThomasBrierton/AWS_Robo_Advisor/blob/main/Bot_Videos/Slots_pic.png)
+![Utterances, Slots, and Confirmations ](https://github.com/ThomasBrierton/AWS_Robo_Advisor/blob/main/Bot_Videos/Slots_pic.png)
 
-Bot created using Amazon Lex
-![](https://github.com/ThomasBrierton/AWS_Robo_Advisor/blob/main/Bot_Videos/Lex_bot.gif)
+![Bot created using Amazon Lex](https://github.com/ThomasBrierton/AWS_Robo_Advisor/blob/main/Bot_Videos/Lex_bot_resized.gif)
 
-Bot Created using Amazon Lex and Lambda
-![](https://github.com/ThomasBrierton/AWS_Robo_Advisor/blob/main/Bot_Videos/Lambda_Bot.gif)
+![Bot Created using Amazon Lex and Lambda](https://github.com/ThomasBrierton/AWS_Robo_Advisor/blob/main/Bot_Videos/Lambda_Bot_resized.gif)
 
 ## Contributors 
 
